@@ -162,7 +162,7 @@ func main() {
 	// Example key: 8 bytes (56-bit effective). For real use, ensure proper key management.
 	key := []byte("s3cr3tK!") // exactly 8 bytes
 
-	plain := []byte("The quick brown fox jumps over the lazy dog")
+	plain := []byte("hadi")
 
 	fmt.Println("Plaintext:", string(plain))
 
