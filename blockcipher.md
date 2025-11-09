@@ -32,3 +32,8 @@ Here are common modes:
 - **AES (Advanced Encryption Standard)**: The modern-dat, secure standard. it's fast, secure, and used worldwide in everything from wi-fi (WPA2/3) to VPNs and file encryption.
 - **DES (Data Encryption Standard)**: An older standard from the 1970s. Its 56-bit key is now insecure and can be broken by modern computers.
 - **3DES (Triple DES)**: A successor to DES that applies the DES algorithm three times to increase the key size. It's much slower than AES and is now considered deprecated in favor of AES.
+
+### Minimalis Example
+```go
+
+```
